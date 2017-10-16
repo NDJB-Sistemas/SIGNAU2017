@@ -5,6 +5,6 @@ syntax: glob
 /NavegadorRecreio-ejb/dist/
 /NavegadorRecreio-war/build/
 /NavegadorRecreio-war/dist/
-/NavegadorRecreio-war/web/resources/images
+/NavegadorRecreio-war/setup/
 /build/
 /dist/
